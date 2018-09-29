@@ -43,6 +43,3 @@ const styles = StyleSheet.create({
     fontSize: 25
   }
 });
-
-
-        <Button style={{flex: 1}} onPress={() => {Alert.alert('You tapped the button!'); }}  title="Press Me"/>
